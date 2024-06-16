@@ -5,6 +5,13 @@
     flex-wrap: wrap;
 }
 
+.btn {
+    background-color: #e6e6e6;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
 .App-logo {
     height: 40vmin;
     pointer-events: none;
